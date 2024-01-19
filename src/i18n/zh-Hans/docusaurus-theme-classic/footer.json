@@ -1,17 +1,17 @@
 {
-  "link.title.开发文档": {
+  "link.title.Development Documentation": {
     "message": "开发文档",
     "description": "The title of the footer links column with title=开发文档 in the footer"
   },
-  "link.title.参与讨论": {
+  "link.title.Participate in Discussion": {
     "message": "参与讨论",
     "description": "The title of the footer links column with title=参与讨论 in the footer"
   },
-  "link.title.更多资源": {
+  "link.title.More Resources": {
     "message": "更多资源",
     "description": "The title of the footer links column with title=更多资源 in the footer"
   },
-  "link.item.label.项目简介": {
+  "link.item.label.Project Overview": {
     "message": "项目简介",
     "description": "The label of footer link with label=项目简介 linking to docs/"
   },
