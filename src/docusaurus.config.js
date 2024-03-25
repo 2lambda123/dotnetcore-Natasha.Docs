@@ -1,8 +1,8 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: "Natasha",
-  tagline: "Natasha",
-  url: "https://natasha.dotnetcore.xyz",
+  title: "New Title",
+  tagline: "New Tagline",
+  url: "https://new-url.com",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
